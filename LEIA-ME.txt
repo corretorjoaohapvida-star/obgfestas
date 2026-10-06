@@ -1,0 +1,8 @@
+COMO SUBIR A PAGINA
+
+1. Extraia o ZIP.
+2. Envie o conteudo da pasta para o repositorio obgfestas. index.html deve ficar na raiz do repositorio, junto de style.css, app.js, config.js, vercel.json e a pasta assets.
+3. No Vercel, importe o repositorio obgfestas. Use Framework Preset: Other. Nao precisa instalar dependencias nem executar build.
+4. Clique em Deploy.
+
+A pagina ja inclui a arte completa, a microcopy e o tutorial na ordem solicitada.
